@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.claims-table {
+  padding-top: 2em;
+  color: #3e95cd;
+}
+
+.claims-table .member-name {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.Header,
+.Footer {
+  padding: 1em 2em;
+  background-color: #3e95cd;
+  color: #fff;
+}
+
+.Header img {
+  height: 4em;
+}
+
+#KeyStats {
+  color: #3e95cd;
+}
+
+#KeyStats,
+.NewClaim,
+footer {
+  margin: 1em;
+}
+
+#KeyStats .btn,
+.New-claim button {
+  background-color: #3e95cd;
+  border-radius: 5px;
+  color: #fff;
+  padding: 1em;
+}
+
+#KeyStats .btn:hover {
+  background-color: #3e95cd;
+}
+
+#KeyStats .btn {
+  background-color: #000080;
+}
+
+.New-claim button:hover {
+  background-color: #000080;
+}
+
+#KeyStats .btn a,
+#KeyStats .btn a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+#KeyStats .claim-stats {
+  border: 1px solid #3e95cd;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+#KeyStats h5 {
+  color: #000080;
+  text-align: left;
+  padding-top: 1em;
+}
+
+.New-claim {
+  color: #3e95cd;
+  padding: 2em;
+}
+
+.New-claim button {
+  margin-top: 1em;
+}
+
+.Footer {
+  font-size: 15px;
+}
+
+.Footer a {
+  color: #fff;
+}
